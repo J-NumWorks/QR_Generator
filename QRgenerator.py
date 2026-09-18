@@ -18,7 +18,7 @@ def generate_qr_code(url, codename):
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_H,
         box_size=10,
-        border=4,
+        border=2,
     )
 
     # Add the URL to the QR code
