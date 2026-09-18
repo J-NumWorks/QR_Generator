@@ -7,10 +7,8 @@ You will need to install
 
 To install:
   1. Open a terminal window (CMD-Space, type "Terminal" on Mac; Click Start Menu, type "Terminal" on Windows)
-  2. Type: pip3 install qrcode
-       a) Wait for installation to complete
-  3. Type: pip3 install pathlib
-       a) Wait for installation to complete
+  2. Type: pip3 install qrcode -> Wait for installation to complete
+  3. Type: pip3 install pathlib -> Wait for installation to complete
 
 Next, download QRgenerator.py and N-Logo-Bordered.png into a folder on your computer (the folder containing the QR Codes you make will be put in a folder created inside this.
 
