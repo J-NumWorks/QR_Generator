@@ -4,11 +4,13 @@ A small Python program for creating QR codes with NumWorks brand
 You will need to install
   1. qrcode
   2. pathlib
+  3. Pillow
 
 To install:
   1. Open a terminal window (CMD-Space, type "Terminal" on Mac; Click Start Menu, type "Terminal" on Windows)
   2. Type: pip3 install qrcode -> Wait for installation to complete
   3. Type: pip3 install pathlib -> Wait for installation to complete
+  4. Type: pip3 install Pillow -> Wait for installation to complete
 
 Next, download QRgenerator.py and N-Logo-Bordered.png into a folder on your computer (the folder containing the QR Codes you make will be put in a folder created inside this.
 
